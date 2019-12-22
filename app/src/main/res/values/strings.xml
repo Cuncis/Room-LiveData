@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room LiveData Kotlin</string>
+    <string name="action_settings">Delete All Notes</string>
+</resources>
